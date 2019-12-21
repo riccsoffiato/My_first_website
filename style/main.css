@@ -1,0 +1,70 @@
+/******************** GENERAL *******************/
+
+body{font-family: sans-serif; Arial, Corbel;
+margin: 0;
+}
+
+
+
+
+
+
+
+a {color: #00001a;
+text-decoration: none;
+}
+
+/*****************HEADER*****************/
+
+
+#header  {
+background-color: #40ff00;
+}
+
+h1{
+font-size: 36px;
+margin: 0px;
+text-align: center;
+padding: 15px 0 0 0;
+color: #ffffff
+text-transform-uppercase;
+
+
+}
+
+h2 {
+text-align: center;
+margin: 0;
+color: #ffffff
+}
+
+#nav {
+background-color: #66ff33;
+text-align: center;
+list-style-type: none;
+}
+
+#nav li {
+	display: inline-block;
+	padding: 6px 8px 6px 8px;
+}
+
+#nav li a {
+color: #ffffff;
+}
+
+#nav li:hover {
+	background-color: #00001a;
+}
+
+/*****************CONTENT*****************/
+
+#content {
+	width: 400px
+
+}
+
+#content h4 {
+
+	border-bottom: #000066 solid 3px;
+}
